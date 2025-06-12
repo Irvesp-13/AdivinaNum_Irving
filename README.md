@@ -1,0 +1,2 @@
+El proposito de este juego es adivinar un numero que el sistema definio al azar en un rango de numeros ya esecidicado.
+Las tecnologias ha usar son las siguientes: Python para el desarrollo del juego, Github para el control de versiones y Jira para el control del proyecto.
